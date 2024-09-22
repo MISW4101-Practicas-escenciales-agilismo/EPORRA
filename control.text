@@ -1,0 +1,29 @@
+############################CARERRAS############################    
+crear_carrera(self, nombre):
+#dar_carreras(self):    
+# dar_carrera(self, id_carrera):    
+# editar_carrera(self, id_carrera, nombre):
+validar_crear_editar_carrera(self, nombre, competidores):
+# eliminar_carrera(self, id):
+terminar_carrera(self, id, ganador):
+dar_reporte_ganancias(self, id_carrera, id_competidor):
+############################COMPETIDORES############################
+# aniadir_competidor(self, id, nombre, probabilidad):
+# dar_competidores_carrera(self, id):
+# dar_competidor(self, id_carrera, id_competidor):
+# editar_competidor(self, id_carrera, id_competidor, nombre, probabilidad):
+# eliminar_competidor(self, id_carrera, id_competidor):
+############################APOSTADORES############################
+# aniadir_apostador(self, nombre):
+# dar_apostadores(self):
+# editar_apostador(self, id, nombre):
+# validar_crear_editar_apostador(self, nombre):
+# eliminar_apostador(self, id):
+############################APUESTAS############################
+# crear_apuesta(self, apostador, id_carrera, valor, competidor):
+# dar_apuestas_carrera(self, id_carrera):
+# dar_apuesta(self, id_carrera, id_apuesta):
+# eliminar_apuesta(self, id_carrera, id_apuesta):
+# editar_apuesta(self, id_apuesta, apostador, id_carrera, valor, competidor):
+# validar_crear_editar_apuesta(self, apostador, carrera, valor, competidor):
+################################################################### 
